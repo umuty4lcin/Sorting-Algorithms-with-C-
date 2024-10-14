@@ -1,0 +1,7 @@
+C:\Users\Umut\Desktop\C# Sorting Algorithms\Selection Sort\selectionSort\selectionSort\bin\Debug\selectionSort.exe.config
+C:\Users\Umut\Desktop\C# Sorting Algorithms\Selection Sort\selectionSort\selectionSort\bin\Debug\selectionSort.exe
+C:\Users\Umut\Desktop\C# Sorting Algorithms\Selection Sort\selectionSort\selectionSort\bin\Debug\selectionSort.pdb
+C:\Users\Umut\Desktop\C# Sorting Algorithms\Selection Sort\selectionSort\selectionSort\obj\Debug\selectionSort.csproj.AssemblyReference.cache
+C:\Users\Umut\Desktop\C# Sorting Algorithms\Selection Sort\selectionSort\selectionSort\obj\Debug\selectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Desktop\C# Sorting Algorithms\Selection Sort\selectionSort\selectionSort\obj\Debug\selectionSort.exe
+C:\Users\Umut\Desktop\C# Sorting Algorithms\Selection Sort\selectionSort\selectionSort\obj\Debug\selectionSort.pdb
